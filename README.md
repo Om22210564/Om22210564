@@ -15,6 +15,7 @@ I'm a student and aspiring developer who loves learning new things and building 
 
 📫 How to reach me:
 - GitHub: [@Om22210564](https://github.com/Om22210564)
+- Email: om26012025@gmail.com
 
 Thanks for visiting my profile! 😊
 
