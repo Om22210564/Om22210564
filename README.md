@@ -15,7 +15,7 @@ I'm a student and aspiring developer who loves learning new things and building 
 
 📫 How to reach me:
 - Email: om26012025@gmail.com
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/omkarambilwade12@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkarambilwade12)
 
 Thanks for visiting my profile! 😊
 
