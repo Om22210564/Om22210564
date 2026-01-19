@@ -14,6 +14,7 @@ I'm a student and aspiring developer who loves learning new things and building 
 💬 Ask me about anything related to programming, learning resources, or tech in general!
 
 📫 How to reach me:
+
 [![Email](https://img.shields.io/badge/Email-om26012025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om26012025@gmail.com)
 
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkarambilwade12)
