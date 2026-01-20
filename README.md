@@ -17,7 +17,7 @@ I'm a student and aspiring developer who loves learning new things and building 
 
 [![Email](https://img.shields.io/badge/Email-om26012025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om26012025@gmail.com)
 
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkarambilwade12)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkar121212)
 
 Thanks for visiting my profile! 😊
 
