@@ -17,6 +17,6 @@ I'm a student and aspiring developer who loves learning new things and building 
 
 [![Email](https://img.shields.io/badge/Email-om26012025@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om26012025@gmail.com)
 
-
+ 
 Thanks for visiting my profile! 😊
 
