@@ -65,6 +65,8 @@ I enjoy building products that combine AI, automation, and real-world problem so
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:om26012025@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/omkarambilwade04)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@omkar121212)
 
 <!-- Add LinkedIn -->
 <!-- Add Portfolio -->
