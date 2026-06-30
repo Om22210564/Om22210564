@@ -15,12 +15,6 @@ I enjoy building products that combine AI, automation, and real-world problem so
 - 🎓 B.Tech Student in **Artificial Intelligence & Data Science**
 - 🏆 **Smart India Hackathon 2024 Finalist**
 - 🤖 Passionate about **Machine Learning, NLP, Computer Vision, and Agentic AI**
-- 🌱 Currently exploring:
-  - Large Language Models (LLMs)
-  - Autonomous AI Agents
-  - Retrieval-Augmented Generation (RAG)
-  - Deep Learning
-  - Distributed Computing (Hadoop & Hive)
 
 
 ---
